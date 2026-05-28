@@ -1,0 +1,32 @@
+aid: covid-19-datenhub
+name: Covid-19 Datenhub
+description: "Maps, datasets, applications and more in the context of COVID-19"
+url: https://npgeo-corona-npgeo-de.hub.arcgis.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Covid-19 Datenhub
+    description: "Maps, datasets, applications and more in the context of COVID-19"
+    humanURL: https://npgeo-corona-npgeo-de.hub.arcgis.com
+    baseURL: https://npgeo-corona-npgeo-de.hub.arcgis.com
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://npgeo-corona-npgeo-de.hub.arcgis.com
+common:
+  - type: Website
+    url: https://npgeo-corona-npgeo-de.hub.arcgis.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
