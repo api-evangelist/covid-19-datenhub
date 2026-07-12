@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://npgeo-corona-npgeo-de.hub.arcgis.com
 common:
+  - type: VulnerabilityDisclosure
+    url: security/covid-19-datenhub-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/covid-19-datenhub-domain-security.yml
   - type: Website
     url: https://npgeo-corona-npgeo-de.hub.arcgis.com
   - type: PublicAPIsListing
