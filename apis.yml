@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19-d
 name: Covid-19 Datenhub
 description: "Maps, datasets, applications and more in the context of COVID-19"
 url: https://npgeo-corona-npgeo-de.hub.arcgis.com
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
