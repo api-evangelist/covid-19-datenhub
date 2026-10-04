@@ -39,7 +39,6 @@ apis:
   - name: Covid-19 Datenhub
     description: "Maps, datasets, applications and more in the context of COVID-19"
     humanURL: https://npgeo-corona-npgeo-de.hub.arcgis.com
-    baseURL: https://npgeo-corona-npgeo-de.hub.arcgis.com
     tags:
       - Health
     properties:
